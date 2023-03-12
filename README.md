@@ -5,4 +5,4 @@
 
 -> Gaussian Naive Bayes is used as the machine learning model and it is made by using Jupyter Notebook.
 
--> The web application is made by using Spyder and is deployed on a local host server using Streamlit.
+-> The web application of this project is made by using Spyder and is deployed on a local host server using Streamlit.
